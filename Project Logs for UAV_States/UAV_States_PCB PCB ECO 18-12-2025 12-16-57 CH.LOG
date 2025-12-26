@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=GND Pin=J2-S1
+Added Pin To Net: NetName=GND Pin=J2-S2
+Added Pin To Net: NetName=GND Pin=J2-S3
+Added Pin To Net: NetName=GND Pin=J2-S4
+Added Pin To Net: NetName=SDMMC_SW Pin=J2-9
+Added Pin To Net: NetName=SDMMC_SW Pin=J2-10
+Added Pin To Net: NetName=SDMMC_SW Pin=R17-1
+Added Pin To Net: NetName=SDMMC_SW Pin=U3-7
+Added Net: Name=SDMMC_SW
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

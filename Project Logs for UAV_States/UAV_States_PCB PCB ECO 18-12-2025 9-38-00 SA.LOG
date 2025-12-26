@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=GND Pin=J2-P1
+Removed Pin From Net: NetName=GND Pin=J2-P2
+Removed Pin From Net: NetName=GND Pin=J2-P3
+Removed Pin From Net: NetName=GND Pin=J2-P4
+Removed Pin From Net: NetName=CARD_DETECT Pin=J2-SWA
+Removed Pin From Net: NetName=CARD_DETECT Pin=J2-SWB
+Removed Member From Class: ClassName=Designator Member=C15
+Removed Member From Class: ClassName=Designator Member=C16
+Removed Member From Class: ClassName=Designator Member=C17
+Removed Member From Class: ClassName=Designator Member=C18
+Removed Member From Class: ClassName=Designator Member=C19
+Removed Member From Class: ClassName=Designator Member=C20
+Removed Member From Class: ClassName=Designator Member=C21
+Removed Member From Class: ClassName=Designator Member=C22
+Removed Member From Class: ClassName=Designator Member=C23
+Removed Member From Class: ClassName=Designator Member=CT1
+Removed Member From Class: ClassName=Designator Member=D4
+Removed Member From Class: ClassName=Designator Member=IC1
+Removed Member From Class: ClassName=Designator Member=IC2
+Removed Member From Class: ClassName=Designator Member=IC3
+Removed Member From Class: ClassName=Designator Member=J1
+Removed Member From Class: ClassName=Designator Member=J2
+Removed Member From Class: ClassName=Designator Member=JP2
+Removed Member From Class: ClassName=Designator Member=P2
+Removed Member From Class: ClassName=Designator Member=P3
+Removed Member From Class: ClassName=Designator Member=P4
+Removed Member From Class: ClassName=Designator Member=P5
+Removed Member From Class: ClassName=Designator Member=R9
+Removed Member From Class: ClassName=Designator Member=R10
+Removed Member From Class: ClassName=Designator Member=R11
+Removed Member From Class: ClassName=Designator Member=R12
+Removed Member From Class: ClassName=Designator Member=R13
+Removed Member From Class: ClassName=Designator Member=R14
+Removed Member From Class: ClassName=Designator Member=R15
+Removed Member From Class: ClassName=Designator Member=R16
+Removed Member From Class: ClassName=Designator Member=R17
+Removed Member From Class: ClassName=Designator Member=R18
+Removed Member From Class: ClassName=Designator Member=R19
+Removed Member From Class: ClassName=Designator Member=R20
+Removed Member From Class: ClassName=Designator Member=R21
+Removed Member From Class: ClassName=Designator Member=R22
+Removed Member From Class: ClassName=Designator Member=U3
+Removed Member From Class: ClassName=Designator Member=U4
+Removed Member From Class: ClassName=Designator Member=U5
+Removed Member From Class: ClassName=Designator Member=U6
+Removed Member From Class: ClassName=Designator Member=U7
+Change Component Footprint: Designator=J2 Old Footprint=HRS_DM3AT-SF-PEJM5 New Footprint=AMPHENOL_1140084168
+Change Component Comment : Designator=J2 Old Comment=DM3AT-SF-PEJM5 New Comment=1140084168
+Change component parameters: Designator = "J2" ("J2"); Footprint = "HRS_DM3AT-SF-PEJM5"; UniqueID = "\JEIJHZOG\GJQLMGOE" ("\JEIJHZOG\GJQLMGOE")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/114-00841-68../Amphenol/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "amphenol communications solutions"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "114-00841-68.."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/114-00841-68../Amphenol/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CARD_DETECT Pin=J2-9
+Added Pin To Net: NetName=CARD_DETECT Pin=J2-10
+Added Pin To Net: NetName=GND Pin=J2-S1
+Added Pin To Net: NetName=GND Pin=J2-S2
+Added Pin To Net: NetName=GND Pin=J2-S3
+Added Pin To Net: NetName=GND Pin=J2-S4
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

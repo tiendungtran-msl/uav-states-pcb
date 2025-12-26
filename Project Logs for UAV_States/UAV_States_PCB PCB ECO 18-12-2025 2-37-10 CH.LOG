@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=UART7_TX_O Pin=P5-0
+Removed Pin From Net: NetName=UART7_RX_O Pin=P5-2
+Added Pin To Net: NetName=UART7_RX_O Pin=P5-0
+Added Pin To Net: NetName=UART7_TX_O Pin=P5-2
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
