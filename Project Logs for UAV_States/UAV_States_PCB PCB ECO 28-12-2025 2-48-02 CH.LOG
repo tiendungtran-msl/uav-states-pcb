@@ -1,0 +1,151 @@
+Change Component Designator: OldDesignator=C15 NewDesignator=C22
+Change Component Designator: OldDesignator=C16 NewDesignator=C15
+Change Component Designator: OldDesignator=C18 NewDesignator=C16
+Change Component Designator: OldDesignator=C20 NewDesignator=C23
+Change Component Designator: OldDesignator=C21 NewDesignator=C24
+Change Component Designator: OldDesignator=C22 NewDesignator=C25
+Change Component Designator: OldDesignator=C23 NewDesignator=C26
+Change Component Designator: OldDesignator=C24 NewDesignator=C27
+Change Component Designator: OldDesignator=C25 NewDesignator=C28
+Change Component Designator: OldDesignator=C26 NewDesignator=C29
+Change Component Designator: OldDesignator=C27 NewDesignator=C30
+Change Component Designator: OldDesignator=C28 NewDesignator=C31
+Change Component Designator: OldDesignator=C29 NewDesignator=C32
+Change Component Designator: OldDesignator=C30 NewDesignator=C33
+Change Component Designator: OldDesignator=C31 NewDesignator=C34
+Change Component Designator: OldDesignator=C32 NewDesignator=C35
+Change Component Designator: OldDesignator=C33 NewDesignator=C36
+Change Component Designator: OldDesignator=C34 NewDesignator=C37
+Change Component Designator: OldDesignator=C35 NewDesignator=C38
+Change Component Designator: OldDesignator=C36 NewDesignator=C39
+Change Component Designator: OldDesignator=C37 NewDesignator=C40
+Change Component Designator: OldDesignator=C38 NewDesignator=C41
+Change Component Designator: OldDesignator=C39 NewDesignator=C42
+Change Component Designator: OldDesignator=IC2 NewDesignator=IC4
+Change Component Designator: OldDesignator=IC3 NewDesignator=IC2
+Change Component Designator: OldDesignator=IC4 NewDesignator=IC5
+Change Component Designator: OldDesignator=IC5 NewDesignator=IC3
+Change Component Designator: OldDesignator=P4 NewDesignator=P6
+Change Component Designator: OldDesignator=P5 NewDesignator=P4
+Change Component Designator: OldDesignator=P6 NewDesignator=P5
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R13 NewDesignator=R23
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R24
+Change Component Designator: OldDesignator=R16 NewDesignator=R14
+Change Component Designator: OldDesignator=R17 NewDesignator=R15
+Change Component Designator: OldDesignator=R18 NewDesignator=R16
+Change Component Designator: OldDesignator=R22 NewDesignator=R18
+Change Component Designator: OldDesignator=R23 NewDesignator=R22
+Change Component Designator: OldDesignator=R24 NewDesignator=R17
+Added Component: Designator=C18(CAPC-0402 (0506))
+Added Component: Designator=C20(CAPC-0402 (0506))
+Added Component: Designator=C21(CAPC-0402 (0506))
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=3.3V Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=3.3V Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=3.3V Pin=C21-2
+Change Net Name : Old Net Name=NetIC2_6 New Net Name=NetIC4_6
+Change Net Name : Old Net Name=NetIC3_6 New Net Name=NetIC2_6
+Change Net Name : Old Net Name=NetIC4_6 New Net Name=NetIC5_6
+Change Net Name : Old Net Name=NetIC5_6 New Net Name=NetIC3_6
+Added Member To Class: ClassName=Designator Member=Component C1 100nF
+Added Member To Class: ClassName=Designator Member=Component C2 22uF
+Added Member To Class: ClassName=Designator Member=Component C3 10uF
+Added Member To Class: ClassName=Designator Member=Component C4 22uF
+Added Member To Class: ClassName=Designator Member=Component C5 47nF
+Added Member To Class: ClassName=Designator Member=Component C6 100nF
+Added Member To Class: ClassName=Designator Member=Component C7 100nF
+Added Member To Class: ClassName=Designator Member=Component C8 100nF
+Added Member To Class: ClassName=Designator Member=Component C9 150pF
+Added Member To Class: ClassName=Designator Member=Component C10 100nF
+Added Member To Class: ClassName=Designator Member=Component C11 100nF
+Added Member To Class: ClassName=Designator Member=Component C12 100nF
+Added Member To Class: ClassName=Designator Member=Component C13 100nF
+Added Member To Class: ClassName=Designator Member=Component C14 100nF
+Added Member To Class: ClassName=Designator Member=Component C15 T? g?m
+Added Member To Class: ClassName=Designator Member=Component C16 T? g?m
+Added Member To Class: ClassName=Designator Member=Component C17 22pF
+Added Member To Class: ClassName=Designator Member=Component C18 100nF
+Added Member To Class: ClassName=Designator Member=Component C19 22pF
+Added Member To Class: ClassName=Designator Member=Component C20 100nF
+Added Member To Class: ClassName=Designator Member=Component C21 100nF
+Added Member To Class: ClassName=Designator Member=Component C22 100nF
+Added Member To Class: ClassName=Designator Member=Component C23 100nF
+Added Member To Class: ClassName=Designator Member=Component C24 100nF
+Added Member To Class: ClassName=Designator Member=Component C25 100nF
+Added Member To Class: ClassName=Designator Member=Component C26 100nF
+Added Member To Class: ClassName=Designator Member=Component C27 100nF
+Added Member To Class: ClassName=Designator Member=Component C28 100nF
+Added Member To Class: ClassName=Designator Member=Component C29 100nF
+Added Member To Class: ClassName=Designator Member=Component C30 100nF
+Added Member To Class: ClassName=Designator Member=Component C31 100nF
+Added Member To Class: ClassName=Designator Member=Component C32 100nF
+Added Member To Class: ClassName=Designator Member=Component C33 100nF
+Added Member To Class: ClassName=Designator Member=Component C34 100nF
+Added Member To Class: ClassName=Designator Member=Component C35 2.2uF
+Added Member To Class: ClassName=Designator Member=Component C36 100nF
+Added Member To Class: ClassName=Designator Member=Component C37 100nF
+Added Member To Class: ClassName=Designator Member=Component C38 100nF
+Added Member To Class: ClassName=Designator Member=Component C39 2.2uF
+Added Member To Class: ClassName=Designator Member=Component C40 100nF
+Added Member To Class: ClassName=Designator Member=Component C41 100nF
+Added Member To Class: ClassName=Designator Member=Component C42 100nF
+Added Member To Class: ClassName=Designator Member=Component CT1 16Mhz
+Added Member To Class: ClassName=Designator Member=Component D1 Diode
+Added Member To Class: ClassName=Designator Member=Component D2 SS36
+Added Member To Class: ClassName=Designator Member=Component D3 LED
+Added Member To Class: ClassName=Designator Member=Component D4 BLUE
+Added Member To Class: ClassName=Designator Member=Component IC1 TXS0102DCUR
+Added Member To Class: ClassName=Designator Member=Component IC2 TXS0102DCUR
+Added Member To Class: ClassName=Designator Member=Component IC3 TXS0102DCUR
+Added Member To Class: ClassName=Designator Member=Component IC4 TXS0102DCUR
+Added Member To Class: ClassName=Designator Member=Component IC5 TXS0102DCUR
+Added Member To Class: ClassName=Designator Member=Component J1 SM06B-SRSS-TB__LF__SN_
+Added Member To Class: ClassName=Designator Member=Component J2
+Added Member To Class: ClassName=Designator Member=Component J3 SM06B-SRSS-TB__LF__SN_
+Added Member To Class: ClassName=Designator Member=Component JP1 1.25T-2A
+Added Member To Class: ClassName=Designator Member=Component JP2 1.25T-10A
+Added Member To Class: ClassName=Designator Member=Component L1 4.7uH
+Added Member To Class: ClassName=Designator Member=Component P1 Header 2
+Added Member To Class: ClassName=Designator Member=Component P2 Value
+Added Member To Class: ClassName=Designator Member=Component P3 connector 3P
+Added Member To Class: ClassName=Designator Member=Component P4 connector 3P
+Added Member To Class: ClassName=Designator Member=Component P5 connector 3P
+Added Member To Class: ClassName=Designator Member=Component P6 connector 3P
+Added Member To Class: ClassName=Designator Member=Component R1 100K
+Added Member To Class: ClassName=Designator Member=Component R2 100K
+Added Member To Class: ClassName=Designator Member=Component R3 68K
+Added Member To Class: ClassName=Designator Member=Component R4 100K
+Added Member To Class: ClassName=Designator Member=Component R5 100K
+Added Member To Class: ClassName=Designator Member=Component R6 12K
+Added Member To Class: ClassName=Designator Member=Component R7 0
+Added Member To Class: ClassName=Designator Member=Component R8 330
+Added Member To Class: ClassName=Designator Member=Component R9 10K
+Added Member To Class: ClassName=Designator Member=Component R10 4.7k
+Added Member To Class: ClassName=Designator Member=Component R11 10K
+Added Member To Class: ClassName=Designator Member=Component R12 470R
+Added Member To Class: ClassName=Designator Member=Component R13 10K
+Added Member To Class: ClassName=Designator Member=Component R14 10K
+Added Member To Class: ClassName=Designator Member=Component R15 4K7
+Added Member To Class: ClassName=Designator Member=Component R16 4K7
+Added Member To Class: ClassName=Designator Member=Component R17 10k
+Added Member To Class: ClassName=Designator Member=Component R18 47k
+Added Member To Class: ClassName=Designator Member=Component R19 47k
+Added Member To Class: ClassName=Designator Member=Component R20 47k
+Added Member To Class: ClassName=Designator Member=Component R21 47k
+Added Member To Class: ClassName=Designator Member=Component R22 47k
+Added Member To Class: ClassName=Designator Member=Component R23 10K
+Added Member To Class: ClassName=Designator Member=Component R24 10K
+Added Member To Class: ClassName=Designator Member=Component TP1
+Added Member To Class: ClassName=Designator Member=Component TP2
+Added Member To Class: ClassName=Designator Member=Component U1 MP1584EN-LF-Z
+Added Member To Class: ClassName=Designator Member=Component U2 LM1117MP-3.3
+Added Member To Class: ClassName=Designator Member=Component U3 STM32H743VIT6
+Added Member To Class: ClassName=Designator Member=Component U4 ICM-42688-P
+Added Member To Class: ClassName=Designator Member=Component U5 MS5611
+Added Member To Class: ClassName=Designator Member=Component U6 ICM-42688-P
+Added Member To Class: ClassName=Designator Member=Component U7 BMM150

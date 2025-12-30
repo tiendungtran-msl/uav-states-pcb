@@ -1,0 +1,17 @@
+Added Component: Designator=J3(SM06B-SRSS-TB)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/5468827"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM06B-SRSS-TB (LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=J3-1
+Added Pin To Net: NetName=PWM1_O Pin=J3-2
+Added Pin To Net: NetName=PWM2_O Pin=J3-3
+Added Pin To Net: NetName=PWM3_O Pin=J3-4
+Added Pin To Net: NetName=PWM4_O Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J3-6
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

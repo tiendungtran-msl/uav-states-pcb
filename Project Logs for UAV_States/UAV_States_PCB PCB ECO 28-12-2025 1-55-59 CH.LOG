@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=Vin Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Member From Class: ClassName=Designator Member=C19
+Change Component Footprint: Designator=P1 Old Footprint=HDR/Terminal/2 New Footprint=AMASS_XT30PW-M
+Change Component Comment : Designator=P1 Old Comment=Header 2 New Comment=XT30PW-M
+Change component parameters: Designator = "P1" ("P1"); Footprint = "HDR/Terminal/2"; UniqueID = "\VOERGVJG\HLTUUZDU" ("\VOERGVJG\HLTUUZDU")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT30PW-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "XT30PW-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT30PW-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SM06B-SRSS-TB
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-4
+Add Pin To Net: Unknown Pin: Pin J3-5
+Add Pin To Net: Unknown Pin: Pin J3-6
+Added Pin To Net: NetName=GND Pin=P1-N
+Added Pin To Net: NetName=Vin Pin=P1-P
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component C15 100nF
+Added Member To Class: ClassName=Designator Member=Component C16 100nF
+Added Member To Class: ClassName=Designator Member=Component C17 100nF

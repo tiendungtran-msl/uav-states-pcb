@@ -1,4 +1,5 @@
 DRC Rules Export File for PCB: D:\NCKH\NCKH 2026\UAV_States\UAV_States_PCB.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_Polygon|Scope=Board|Minimum=19.69
 RuleKind=Clearance|RuleName=Clearance_BMM150|Scope=Board|Minimum=3.94
 RuleKind=Width|RuleName=Width_BMM150|Scope=Board|Minimum=3.94
 RuleKind=Clearance|RuleName=Clearance_IMU|Scope=Board|Minimum=5.00
